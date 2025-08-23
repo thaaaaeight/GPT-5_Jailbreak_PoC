@@ -1,6 +1,7 @@
 # **GPT-5-PROMISQROUTE-Prompt-based-Router-Open-Mode-Manipulation-Jailbreak-PoC**
-**Author: Bryan Brannan**
-**Date: 08/23/2025**
+**Author:** Bryan Brannan
+<br>
+**Date:** 08/23/2025
 
 
 
