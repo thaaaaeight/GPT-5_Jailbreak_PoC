@@ -1,4 +1,6 @@
-# **GPT-5-PROMISQROUTE-Prompt-based-Router-Open-Mode-Manipulation-Jailbreak-PoC**
+# **GPT-5 Jailbreak PoC**
+## PROMISQROUTE (Prompt based-Router Open Mode Manipulation) based jailbreak of GPT-5
+
 **Author:** Bryan Brannan
 <br>
 **Research Time Period:** 08/23/2025 20:00 - 08/24/2025 08:00
