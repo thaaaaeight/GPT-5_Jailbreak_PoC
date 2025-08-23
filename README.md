@@ -4,6 +4,8 @@
 **Author:** Bryan Brannan
 <br>
 **Research Time Period:** 08/23/2025 20:00 - 08/24/2025 08:00
+<br>
+**Orginal Publication:** https://github.com/BirdsAreFlyingCameras/GPT-5_Jailbreak_PoC
 
 ## **Summery**
 
